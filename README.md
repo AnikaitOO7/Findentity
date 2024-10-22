@@ -70,31 +70,29 @@ The app uses Aadhaar-enabled biometric identification to track these individuals
    ```bash
    git clone https://github.com/AnikaitOO7/Findentity
 
-2. **Install dependencies**: Navigate to the frontend and backend directories to install the required packages.
+**Install dependencies**: Navigate to the frontend and backend directories to install the required packages.
 
-For Flutter (Frontend):
+2. **For Flutter (Frontend)**:
 
-```bash
-flutter pub get
+   ```bash
+   flutter pub get
 
 3. For Django (Backend):
 
-bash
-Copy code
-pip install -r requirements.txt
-Set up the Database: Configure your PostgreSQL or MySQL database, and add your credentials in the settings.py file for Django.
+    ```bash
+   pip install -r requirements.txt
+**Set up the Database**: Configure your PostgreSQL or MySQL database, and add your credentials in the settings.py file for Django.
 
-Run the Backend Server:
+4. **Run the Backend Server**:
 
-bash
-Copy code
-python manage.py migrate
-python manage.py runserver
-Run the Frontend:
+    ```bash
 
-bash
-Copy code
-flutter run
+   python manage.py migrate
+   python manage.py runserver
+5. **Run the Frontend**:
+
+    ```bash
+   flutter run
 
 
 
