@@ -10,10 +10,6 @@ Findentity is an innovative mobile application designed to track and locate miss
 4. [Technology Stack](#technology-stack)
 5. [Installation](#installation)
 6. [Usage](#usage)
-7. [Contributing](#contributing)
-8. [License](#license)
-9. [Team](#team)
-10. [Contact](#contact)
 
 ---
 
@@ -73,3 +69,16 @@ The app uses Aadhaar-enabled biometric identification to track these individuals
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-repo/findentity.git
+
+
+
+## Usage
+### Login:
+
+- Users can log in using biometric authentication or a special login for officials.
+### Biometric Scan:
+
+- Users scan fingerprints to identify missing persons, linked to the Aadhaar database.
+### Real-Time Tracking:
+
+- GPS tracking enables real-time location sharing, with PG-SMS sending updates to guardians.
