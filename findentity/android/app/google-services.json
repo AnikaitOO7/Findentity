@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "471329202528",
+    "project_id": "fidentity-alpha",
+    "storage_bucket": "fidentity-alpha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471329202528:android:f7634c12fd66c68b38be05",
+        "android_client_info": {
+          "package_name": "com.example.findentity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471329202528-23sr2atmbre3gpcqr5as66er1jnuhaft.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.findentity",
+            "certificate_hash": "1d2f09dad2f8ce990a2222e5a78eaf22fa7d9eb2"
+          }
+        },
+        {
+          "client_id": "471329202528-1oeftbfm4r4gvepgjvjd9taj2hnm79j4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD24QglJGVmi051_niylaKLFMLSiMSIkbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471329202528-1oeftbfm4r4gvepgjvjd9taj2hnm79j4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
